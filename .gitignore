@@ -4,3 +4,7 @@ dist
 coverage
 
 .idea
+
+.DS_Store
+
+.vscode
